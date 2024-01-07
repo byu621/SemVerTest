@@ -1,1 +1,2 @@
 Test Semantic Versioning
+Add commitizen
